@@ -18,5 +18,8 @@
   "homepage": "https://github.com/takakuda/hello_vuejs#readme",
   "dependencies": {
     "vue": "^2.5.21"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3"
   }
 }
