@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/takakuda/hello_vuejs/issues"
   },
-  "homepage": "https://github.com/takakuda/hello_vuejs#readme"
+  "homepage": "https://github.com/takakuda/hello_vuejs#readme",
+  "dependencies": {
+    "vue": "^2.5.21"
+  }
 }
